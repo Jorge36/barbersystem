@@ -1,6 +1,8 @@
 # barbersystem
 A lot of the times when visiting a barber or hairdresser you have to wait in a queue not knowing when your turn is. To avoid this waiting problem, we are going to develop an automated booking platform for client and barber/hairdresser as there is currently no system to solve this issue. System developed to register their business details, their location, and their available slots, so customers can login to search and book appointments.
 
+The system has a backend database (DB) that engine a desktop application with a GUI implementation. 
+
 Barber System was developed in Java using Swing and AWT. Also, the System was developed using the architectural pattern MVC to separates an application into three main logical components: the model, the view, and the controller. 
 Screens:
 
