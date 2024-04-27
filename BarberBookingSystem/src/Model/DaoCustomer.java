@@ -20,9 +20,9 @@ public class DaoCustomer {
         // link to the database
     private String dbServer = "jdbc:mysql://XX.YY.ZZ.TTT/DBName?use_SSL=false";
     // user to query DB and perorm inserts, deletes and updaes
-    private String user = "Jessica_2019197";
+    private String user = "USER";
     // password
-    private String password = "2019197";
+    private String password = "PASSWORD";
     
     // get customer by email
     public Customer get(String email) throws DBException {
