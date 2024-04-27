@@ -1,5 +1,5 @@
 # barbersystem
-A lot of the times when visiting a barber or hairdresser you have to wait in a queue not knowing when your turn is. To avoid this waiting problem, we are going to develop an automated booking platform for client and barber/hairdresser. System developed to register their business details, their location, and their available slots, so customers can login to search and book appointments.
+I developed an automated booking platform for customer and barber/hairdresser. System developed to register barber's business details, their location, and their available slots, so customers can login to search and book appointments.
 
 The system has a backend database (DB) that engine a desktop application with a GUI implementation. 
 
