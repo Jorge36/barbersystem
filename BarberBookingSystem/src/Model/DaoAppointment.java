@@ -24,9 +24,9 @@ public class DaoAppointment {
     // link to the database
     private final String dbServer = "jdbc:mysql://XX.YY.ZZ.TTT/DBName?use_SSL=false";
     // user to query DB and perorm inserts, deletes and updaes
-    private final String user = "Jessica_2019197";
+    private final String user = "USER";
     // password
-    private final String password = "2019197";
+    private final String password = "PASSWORD";
     
     //save an appointment
     public int save(Appointment app) throws DBException {
