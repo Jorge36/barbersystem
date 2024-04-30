@@ -1,4 +1,4 @@
-# barbersystem
+# Barbersystem
 I developed an automated booking platform for customers and barber/hairdressers. System developed to register barber's business details, their location, and their available slots, so customers can login to search and book appointments.
 
 The system has a backend database (DB) that engine a desktop application with a GUI implementation. 
