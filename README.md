@@ -18,8 +18,6 @@ Screens:
 
 ![alt_text](https://github.com/Jorge36/barbersystem/blob/697ce7aa0b0060d48ee39ddd480243e7947c6fd5/imagesApplication/barber_slots_saved.png)
 
-![alt_text](https://github.com/Jorge36/barbersystem/blob/697ce7aa0b0060d48ee39ddd480243e7947c6fd5/imagesApplication/barber_table_mysql.png)
-
 ![alt_text](https://github.com/Jorge36/barbersystem/blob/697ce7aa0b0060d48ee39ddd480243e7947c6fd5/imagesApplication/cancel_app.png)
 
 ![alt_text](https://github.com/Jorge36/barbersystem/blob/697ce7aa0b0060d48ee39ddd480243e7947c6fd5/imagesApplication/choose_date_for_app.png)
